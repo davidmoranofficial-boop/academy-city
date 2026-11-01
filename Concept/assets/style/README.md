@@ -5,7 +5,7 @@
 - **The look darkens as the story does.** Later in the story it moves toward D: deeper contrast, darker palette, dramatic lighting.
 - Same characters and models throughout. The shift comes from lighting, colour and contrast, so it tracks the story.
 
-The style sets the look of the whole game, including in-game models. 2D or 3D is still to decide (the Unity project is 3D now).
+- **3D** (David, 1 Nov): cel-shaded 3D anime models in Unity. The darkening is done with lighting, colour grading and contrast.
 
 ## board-1nov
 Hanson drawn in four styles, two takes each (`styleboard.png`):
