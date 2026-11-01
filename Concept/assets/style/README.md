@@ -1,6 +1,11 @@
 # Art style
 
-Not locked yet. The style chosen here sets the look of the whole game, including in-game models. It also depends on whether the game is 3D or 2D (still to decide).
+## Locked (David, 1 Nov)
+- **Base style: B, bright anime.** Clean lines, cel shading, bright colours. This is how the game starts.
+- **The look darkens as the story does.** Later in the story it moves toward D: deeper contrast, darker palette, dramatic lighting.
+- Same characters and models throughout. The shift comes from lighting, colour and contrast, so it tracks the story.
+
+The style sets the look of the whole game, including in-game models. 2D or 3D is still to decide (the Unity project is 3D now).
 
 ## board-1nov
 Hanson drawn in four styles, two takes each (`styleboard.png`):
