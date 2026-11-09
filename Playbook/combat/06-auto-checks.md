@@ -25,3 +25,6 @@ For each move type, export a 6-frame sheet (face, load, strike, contact, recover
 ## Implementation notes
 - Matching movement speed to clip speed (or root motion) fixes most sliding; foot IK locking is the polish layer (Footwerk, Epic speed planting).
 - Write the checks as an editor script that runs after the batch sim and writes `Demo/Checks/report_<date>.txt` plus failure frames.
+
+## Code
+`code/FightChecks.cs` (written 9 Nov, not yet compiled): covers checks 1 to 10 and logs fight results for check 12. Check 11 (UI) still to add. Hook points: `Register`, `OnStrikeStart`, `OnContact`, `OnStrikeEnd`, `OnDefenceStart`, `OnHitStop`, `OnMoveStart/End`, `OnFightEnd`, `WriteReport`.
